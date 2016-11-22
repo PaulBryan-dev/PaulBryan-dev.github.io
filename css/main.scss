@@ -40,7 +40,8 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	body {
 		background: _palette(bg);
-		font-family: 'VAG rounded std', 'Raleway', sans-serif !important;
+		font-family:  'VAG rounded std', 'Raleway', sans-serif!important;
+		font-weight: 100 !important;
 
 		&.is-loading {
 			*, *:before, *:after {
