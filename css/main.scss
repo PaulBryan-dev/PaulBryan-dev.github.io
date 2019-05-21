@@ -1841,12 +1841,13 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
-	.margin-above {
-		margin-top: 30px;
-	}
+
 
 .links {
 	display: inline-block;
 	padding: 0	20px 0	20px;
 	margin: 0 auto;
+}
+.margin-above {
+	margin-top: 30px;
 }
